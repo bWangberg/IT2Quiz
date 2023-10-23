@@ -88,3 +88,4 @@ matteQuiz.setSpørsmål(spm2)
 matteQuiz.setSpørsmål(spm3)
 
 matteQuiz.play()
+#Endre test
