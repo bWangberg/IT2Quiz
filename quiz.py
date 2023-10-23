@@ -89,3 +89,4 @@ matteQuiz.setSpørsmål(spm3)
 
 matteQuiz.play()
 #Endre test
+#hei buddy
